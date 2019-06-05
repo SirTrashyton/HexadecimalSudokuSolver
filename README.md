@@ -7,6 +7,7 @@ Jacob Gordon
 ICS 211 - Intro to programming 2 - Spring 2019
 
 Hexadecimal Sudoku Solver using native Java and recursion techniques.
+The sudoku puzzle's to solve are built into the code and expressed as a matrix (26 + 9 values).
 
 What I Learned
 ----------------------------
